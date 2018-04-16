@@ -10,16 +10,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 The project is to develop a "Reminder" service, called "Remind Me."
 The user will enter events that she wants advanced reminders for.  The app
 will place those events, both recurring and non-recurring, on her Google calendar 
-and generate text reminders to her in advance as specified by her.  It will also place the event
+and generate text reminders to her at dates/times  specified by her.  It will also place the event
 on her Google calendar. Once an event and remimder schedule is set up the app 
 will send text messages to her to remind her of the upcoming event. 
 These reminders will be repeated based on her schedule.  As an example,
 birthdays of loved ones reminders will occur annualy. The app will also accommodate
 non-recurring eventys such as dentist appointments,meetings and conference calls.
-
-Users will appreciate the timely reminders of important occasions, alloowing them to
-prepare for the occasionas well as relieving them of the anxiety of the possibility
+Users will appreciate the timely reminders of important occasions, allowing them to
+prepare for the occasionas, as well as relieving them of the anxiety of the possibility
 of forgetting such an occasion.
+
+The idea came to me when I realized I had forgotten an important occcasion despite the
+fact that I had it in my calendar and did receive calendar app generated alerts.  
+Unfortunately, those alerts are bundled in with many other alerts I receieve:  news alerts,
+sports alerts and social media alerts.  Clearly these alerts are not effective.
+
+I believe an automated, reliable, inexpensive sms/text alert is the most effective way
+to be reminded of events.
 
 ### Features
 User Login - the user will  be able to create an account and login to the application.  Each
