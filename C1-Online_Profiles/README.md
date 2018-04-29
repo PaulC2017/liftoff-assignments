@@ -16,3 +16,4 @@ https://www.linkedin.com/in/pg-corrao-7b120a162/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
+Resume added - "Paul Corrao Resume"
