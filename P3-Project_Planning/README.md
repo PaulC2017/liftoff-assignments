@@ -12,7 +12,7 @@ The wireframes can be found here:
 * HomePage
 * Login Page
 * Register Page
-* Welcome and Instructins Page
+* Welcome and Instructions Page
 
 
 ### Project Tracker
