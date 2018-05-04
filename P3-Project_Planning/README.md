@@ -7,9 +7,14 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
+The wireframes can be found here:
+<https://github.com/PaulC2017/liftoff-assignments/tree/master/WireFrames>
+* HomePage
+* Login Page
+* Register Page
+* Welcome and Instructins Page
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+<https://www.pivotaltracker.com/n/projects/2159616>
