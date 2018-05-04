@@ -13,7 +13,7 @@ The wireframes can be found here:
 * Login Page
 * Register Page
 * Welcome and Instructins Page
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+
 
 ### Project Tracker
 
