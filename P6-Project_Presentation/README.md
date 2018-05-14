@@ -7,4 +7,5 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+See Remind Me.PDF here:
+https://github.com/PaulC2017/liftoff-assignments/blob/master/P6-Project_Presentation/Remind%20Me.pdf
